@@ -1,0 +1,24 @@
+h1:hover {
+    color: aqua;
+    background-color: aliceblue;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p:hover {
+    background-color: aqua;
+    color: brown;
+}
+img {
+    width:250px;
+    height: 250px;
+    border: solid;
+}
+
+.footer {
+    color:blue;
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

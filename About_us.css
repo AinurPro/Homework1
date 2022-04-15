@@ -1,0 +1,21 @@
+h1:hover {
+    color:aliceblue;
+    background-color: aqua;
+}
+    p {
+        text-align: center;
+        color:blanchedalmond
+    }
+    .Video {
+        text-align: center;
+        margin:auto;
+        display: block;
+
+    }
+    .footer{
+    color:blue;
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    }

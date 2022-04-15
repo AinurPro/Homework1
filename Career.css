@@ -1,0 +1,23 @@
+h1:hover {
+    color:aliceblue;
+    background-color: aqua;
+}
+
+main {
+    color: aliceblue;
+    display:grid;
+    grid-template-columns: 50% 50%;
+}
+img {
+    width: 50%;
+    height: 50%;
+}
+.footer {
+color:blue;
+background-color: pink;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+}
+    

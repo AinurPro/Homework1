@@ -1,0 +1,82 @@
+h1:hover {
+    color: red;
+    background-color: aqua;
+}
+.Menu {
+    color: blue;
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Photos {
+    color: green;
+    background-color: aqua;
+    position: relative;
+    text-align: center;
+   
+}
+img {
+    height: 150px;
+    width: 200px;
+    position: relative;
+    border: 5px yellow solid;
+    padding-inline: 10px;
+    margin-inline-end: 10px;
+    vertical-align: middle;
+    
+   
+}
+.photo1 {
+    width: 30%;
+    height: 30%;
+    border: 5px yellow solid;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+.photo2 {
+    width: 50%;
+    height: 10%;
+    border: 5px yellow solid;
+    display:block;
+    margin-left:200px;
+
+}
+.photo3 {
+    width: 30%;
+    height: 30%;
+    border: 5px yellow solid;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.photo4 {
+width: 20%;
+height: 30%;
+border: 5px yellow solid;
+display: block;
+margin-left: 200px;
+}
+.Photo5 {
+    width: 150%;
+    height: 160%;
+    border: 5px yellow solid;
+    display: block;
+    margin-right: 200%;
+
+}
+.text1 {
+    color:aliceblue;
+}
+.text2 {
+    color:aliceblue;
+}
+.footer {
+    color:blue;
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
